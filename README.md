@@ -1,2 +1,2 @@
 # srednia
-repo srednia
+Repozytorium projektu sredniej.
